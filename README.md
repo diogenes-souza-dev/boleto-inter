@@ -1,7 +1,7 @@
 
-# Gerador de boleto Inter
+# Gerador de Boleto - Banco Inter (077)
 
-Sistema para geração e envio de boleto automaticamente através do banco inter para conta PJ (Não funciona para MEI)
+Sistema para geração e envio automático de boleto através do Banco Inter para conta PJ (Não funciona para MEI)
 
 - Cadastro de clientes
 - Cadastro de Serviços
